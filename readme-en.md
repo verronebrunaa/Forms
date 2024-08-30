@@ -1,4 +1,4 @@
-#  Formulario 
+# Formulario
 
 <table>
     <td height="40px">
@@ -14,8 +14,34 @@
     </td>
 </table>
 
-## About 
+## About
+
     Form developed for the Web Design class of the Computer Engineering course at Facens University Centre.
     HTML lesson - Form
 
-![Image]()
+    Task: Create a Page with the following form and send it to w3school:
+    - Date
+    - Access data
+    - Username
+    - Password
+    - Personal Details
+    - Name
+    - Address:
+    - Number:
+    - Complement:
+    - City: (datalist)
+    - State: [select]
+    - POSTCODE:
+    [select] Gender: (radio)
+    ( ) Male
+    ( ) Female
+    ( ) Prefer not to speak
+    Course: (checkbox)
+    [ ] ADS
+    [ ] Games
+    [ ] IT Management
+    [ ] Database
+    Model (radio)
+    ( ) Face-to-face
+    ( ) EAD
+    ( ) Semi-face-to-face

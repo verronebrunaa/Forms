@@ -1,4 +1,4 @@
-#  Formulario 
+# Formulario
 
 <table>
     <td height="40px">
@@ -14,8 +14,34 @@
     </td>
 </table>
 
-## Sobre 
+## Sobre
+
     Formulário desenvolvido para aula de Web Design do Curso de Engenharia da computação do Centro Universitário Facens.
     Aula de HTML - Formulário
 
-![Image]() 
+    Tarefa: Criar uma Página com o seguinte formulário enviando para o w3school:
+    • Data (date)
+    • Dados de Acesso
+    • Usuário
+    • Senha
+    • Dados Pessoais
+    • Nome:
+    • Endereço:
+    • Numero:
+    • Complemento:
+    • Cidade: (datalist)
+    • Estado: [select]
+    • CEP:
+    Gênero: (radio)
+    ( ) Masculino
+    ( ) Feminino
+    ( ) Prefiro não falar
+    Curso: (checkbox)
+    [ ] ADS
+    [ ] Jogos
+    [ ] Gestão de TI
+    [ ] Banco de Dados
+    Modelo (radio)
+    ( ) Presencial
+    ( ) EAD
+    ( ) Semi presencial
